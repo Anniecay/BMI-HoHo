@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#736384</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="cutepurple">#B3A8CC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="normal">#596157</color>
+    <color name="shin">#084177</color>
+    <color name="fat">#A37272</color>
+</resources>
